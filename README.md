@@ -9,12 +9,12 @@ Popular Tick-Tac-Toe game created in **C++** using iGraphics library(A Wrapper F
 
 # Screenshots
 <div align="center">
-    <img src="/docs/snaps/main.PNG" width="445px"</img> 
-    <img src="/docs/snaps/game.PNG" width="445px"</img> 
+    <img src="/docs/snaps/main.PNG" width="400px"</img> 
+    <img src="/docs/snaps/game.PNG" width="400px"</img> 
 </div>
 <div align="center">
-    <img src="/docs/snaps/win.PNG" width="445px"</img> 
-    <img src="/docs/snaps/res.PNG" width="445px"</img> 
+    <img src="/docs/snaps/win.PNG" width="400px"</img> 
+    <img src="/docs/snaps/res.PNG" width="400px"</img> 
 </div>
 
 # iGraphics [[Docs](docs/iDoc.pdf)] [[Installation](docs/UserGuide.pdf)]
