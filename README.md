@@ -1,9 +1,9 @@
-# tick_tack_toe
-Popular Tick-Tac-Toe game created in **C++** using iGraphics library(A Wrapper For OpenGL in 2D).
+# tic_tac_toe
+Popular Tic-Tac-Toe game created in **C++** using iGraphics library(A Wrapper For OpenGL in 2D).
 
 # Running the game
 - Clone the repository
-  - `git clone https://github.com/iamsanjaymalakar/tick_tack_toe.git`
+  - `git clone https://github.com/iamsanjaymalakar/tic_tac_toe.git`
 - Run **XO.exe** from `bin/Debug`
   - `bin/Debug/XO.exe`
 
